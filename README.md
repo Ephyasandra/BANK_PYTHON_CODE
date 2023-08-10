@@ -1,7 +1,4 @@
 # BANK_PYTHON_CODE
-Sure! Here's a sample README for a GitHub repository:
-
-# Project Name
 
 👋 Hi there! Welcome to Bank repository! 
 
