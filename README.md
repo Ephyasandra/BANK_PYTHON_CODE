@@ -11,5 +11,8 @@ Usage:
 1. Clone this repository to your local machine.
 2. Open the `bank.py` file in your preferred Python IDE.
 3. Run the code to start the bank application.
-4. Follow the prompts to create an account, deposit cash, withdrw and check your balance.
+   ```
+   python bank.py
+   ```
+5. Follow the prompts to create an account, deposit cash, withdrw and check your balance.
 
