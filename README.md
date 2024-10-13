@@ -14,5 +14,5 @@ Usage:
    ```
    python bank.py
    ```
-5. Follow the prompts to create an account, deposit cash, withdrw and check your balance.
+5. Follow the prompts to create an account, deposit cash, withdraw and check your balance.
 
